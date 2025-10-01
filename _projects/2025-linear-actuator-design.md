@@ -6,4 +6,4 @@ technologies: []
 image: /assets/images/hw-4-portfolio.jpg
 ---
 
-For a class, we were asked to design a mechanism with 3 pin supports, a rigid linear actuator and a bar in a 2D design space of 150cm long and 50 cm tall. We were challenged to find the configuration to lift the maximum possible weight to the highest possible height. After doing moment calculations, this is design I ended up with.
+For Statics and Mechanics of Materials, we were asked to design a mechanism with 3 pin supports, a rigid linear actuator and a bar in a 2D design space of 150cm long and 50 cm tall. We were challenged to find the configuration to lift the maximum possible weight to the highest possible height. After doing moment and force calculations, this is design I ended up with.
