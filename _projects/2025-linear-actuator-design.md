@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 2D Design with Linear Actuator and Rigid Bar
+title: 2D Linear Actuator and Bar Design
 description: Statics and Mechanics of Materials
 technologies: []
 image: /assets/images/hw-4-portfolio.jpg
