@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Yifan (Aven) Li - Portfolio
 permalink: /projects/
 ---
 
