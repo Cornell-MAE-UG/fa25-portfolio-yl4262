@@ -21,12 +21,12 @@ My unknowns were B, the max value of the force the linear actuator could exert o
 
 Final Design: 
 
-<img src="{{ '/assets/images/hw-4-portfolio.jpg.' | relative_url }}" alt="Approach diagram" style="width: 75%;">
+<img src="{{ '/assets/images/hw-4-portfolio.jpg' | relative_url }}" style="width: 75%;">
 
 I found that the max weight that can be displaced is 97kN at a height of 50 cm. 
 
 ## Further Challenge 
 We were then challenged to onduct analysis on the beam assuming that it is no longer rigid. I made the assumptions that the weight of the beam had negligible effects on the deflection of the beam, the beam was made of steel with Young's Modulus value E = 200 GPA and a moment of inertia of 1 cm^4 (unrealistic, but simple) to find the maximum deflection of the beam to occur at x = 29.3 cm with a deflection of -0.000017 cm. This is a very small defelction so for my final beam design, I settled on a lighter material, aluminum (E = 70 * 10^9 PA) and found that my required moment of inertia was 0.49*10^6 mm^4. Looking through Appendix D, the L76x76x6.4 cross section fits my requirement. Here is my work and the final beam design:
 
-<img src="{{ '/assets/images/non-rigid.jpeg' | relative_url }}" alt="Approach diagram" style="width: 75%;">
+<img src="{{ '/assets/images/non-rigid.jpeg' | relative_url }}" style="width: 75%;">
 
