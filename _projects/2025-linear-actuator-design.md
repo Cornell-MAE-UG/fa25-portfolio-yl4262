@@ -5,7 +5,6 @@ description: Statics and Mechanics of Materials
 technologies: []
 image: /assets/images/hw-4-portfolio.jpg
 ---
-<p></p>
 
 ## Purpose
 Statics and Mechanics of Materials Project
