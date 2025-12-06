@@ -19,6 +19,10 @@ My unknowns were B, the max value of the force the linear actuator could exert o
 
 <img src="{{ '/assets/images/approach.jpeg' | relative_url }}" alt="Approach diagram" style="width: 75%;">
 
+Final Design: 
+
+<img src="{{ '/assets/images/hw-4-portfolio.jpg.' | relative_url }}" alt="Approach diagram" style="width: 75%;">
+
 I found that the max weight that can be displaced is 97kN at a height of 50 cm. 
 
 ## Further Challenge 
