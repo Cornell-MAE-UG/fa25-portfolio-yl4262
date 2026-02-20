@@ -6,9 +6,6 @@ technologies: []
 image: /assets/images/lanternfly.jpg
 ---
 
-## Purpose
-MAE 2250 Open Design Project Client Proposal
-
 ## Client Proposal
 
 <iframe 
