@@ -9,7 +9,7 @@ image: /assets/images/lanternfly.jpg
 ## Client Proposal
 
 <iframe 
-  src="{{ '/assets/ODP3_ Client Outline.pdf' | relative_url }}" 
+  src="{{ '/assets/ODP3_ ClientOutline.pdf' | relative_url }}" 
   width="100%" 
   height="800px">
 </iframe>
