@@ -11,9 +11,6 @@ permalink: /projects/
         <a href="{{ project.url | relative_url }}">
           <img src="{{ project.image | relative_url }}" alt="{{ project.title }}"  style="width: 100%;" />
           <p>{{project.title}}</p>
-          <p><p>
-          <p><p>
-          <p><p>
         </a>
       </div>
     {% endfor %}
