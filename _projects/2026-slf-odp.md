@@ -1,10 +1,12 @@
 ---
 layout: project
-title: MAE 2250 Team ZAM SLF Open Design Project 
+title: MAE 2250 SLF ODP
 description: MAE 2250 Open Design Project Client Proposal
 technologies: []
 image: /assets/lanternfly.jpg
 ---
+## Team ZAM SLF Open Design Project 
+Team Members: Yifan Li, Zoe Ng, Meggie Chen, Andrea Wang, Zoe Petropoulos
 
 ## Project Context
 The Spotted Lanternfly (SLF) is an invasive species posing a severe threat to the grape production industry in upstate New York. These insects feed on grapevines, weakening the plants, reducing crop yields, and contaminate harvests, which threatens the economic stability of local vineyards and wineries.
