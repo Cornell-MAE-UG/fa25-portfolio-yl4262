@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Team ZAM SLF Open Design Project 
-description: MAE 2250 Open Design Project Client Proposal
+title: 2D Team ZAM SLF Open Design Project 
+description: ODP SLF
 technologies: []
 image: /assets/lanternfly.jpg
 ---
@@ -24,3 +24,4 @@ The Spotted Lanternfly (SLF) is an invasive species posing a severe threat to th
 
 <h2 id="pitch">Client Pitch</h2>
 <iframe src="{{ '/assets/ODP6_ ClientPitch.pdf' | relative_url }}" width="100%" height="800px"> </iframe>
+
