@@ -3,7 +3,7 @@ layout: project
 title: Team ZAM: SLF Open Design Project 
 description: MAE 2250 Open Design Project Client Proposal
 technologies: []
-image: /assets/images/lanternfly.png
+image: /assets/lanternfly.png
 ---
 
 ## Project Context
